@@ -1,16 +1,21 @@
-# React + Vite
+# EchoMind — Mental Health Analysis Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack Hinglish mental health web app for stress 
+and anxiety classification from free-form text input.
 
-Currently, two official plugins are available:
+## Tech Stack
+- Frontend: React, Tailwind CSS, Vite
+- Backend: Node.js, Express
+- ML: HuggingFace Transformers, NLTK
+- Database: MongoDB
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Stress/anxiety classification from Hinglish text
+- 3-mode input: typed text, mood slider, Hindi voice (Web Speech API)
+- JWT Authentication
+- Session history and feedback logging
+- 4 REST API endpoints
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup
+cd backend && npm install && npm start
+cd client && npm install && npm run dev
