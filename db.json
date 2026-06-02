@@ -1,0 +1,3880 @@
+{
+  "users": [
+    {
+      "id": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "name": "Riya",
+      "email": "riyay1818@gmail.com",
+      "password": "$2a$10$/ieAjLbdVa9p7Syn54kKl.BtCkyM7X5RBdi0kd9oqKYqO8gwINHtC",
+      "age": "21",
+      "gender": null,
+      "streak": 2,
+      "lastCheckIn": "Mon Apr 13 2026",
+      "createdAt": "2026-04-10T08:45:15.797Z"
+    },
+    {
+      "id": "6e55caba-7e99-4ec5-8829-8802aca89aef",
+      "name": "vansh",
+      "email": "vansh@gmail.com",
+      "password": "$2a$10$/wPfqzchqIrLvJaM.JBZyeYVrWorQ./v8.thkiAS.K6H0vuqgmpdq",
+      "age": "21",
+      "gender": "Male",
+      "streak": 1,
+      "lastCheckIn": "Fri Apr 10 2026",
+      "createdAt": "2026-04-10T09:03:40.882Z"
+    },
+    {
+      "id": "cc548acc-792c-495d-9441-68f16b4851c6",
+      "name": "aman",
+      "email": "aman@123",
+      "password": "$2a$10$WUuQreekdaSbRBmBaPLZiuVFy3HOibtgHbEyC3OPVzUI83yIeUXKS",
+      "age": "12",
+      "gender": "Male",
+      "streak": 1,
+      "lastCheckIn": "Fri Apr 10 2026",
+      "createdAt": "2026-04-10T09:24:33.925Z"
+    },
+    {
+      "id": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "name": "riya",
+      "email": "riyay18@gmail.com",
+      "password": "$2a$10$PrgNSwR3yTQZ2MtaLAPhXekVEv6oAHqkpaPxINVXPolW4CVEUxQ6q",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Wed Apr 22 2026",
+      "createdAt": "2026-04-21T19:54:16.344Z"
+    },
+    {
+      "id": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "name": "riya",
+      "email": "riya18@gmail.com",
+      "password": "$2a$10$20SyP/Ffk98AcruWAI/RhOxPRpnScRJrQ...jlXk5CJRq9suEblPm",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Wed Apr 22 2026",
+      "createdAt": "2026-04-22T04:27:52.029Z"
+    },
+    {
+      "id": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "name": "shreya",
+      "email": "shreya@gmail.com",
+      "password": "$2a$10$JjwxvK3azDfpj.dUBF2q/utpOzMGPm/Q6hJN.nG0ctLrlNJ9HOXCC",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Fri May 22 2026",
+      "createdAt": "2026-04-22T06:18:21.380Z"
+    },
+    {
+      "id": "86f98f99-071c-4212-a086-d4533720b3e9",
+      "name": "riya",
+      "email": "riya@123",
+      "password": "$2a$10$xRUQ/PbUkEuhWR2UXLr0ieLZlu1KKiBLfxoI9w.4RwWx9L.Afo522",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Sat May 16 2026",
+      "createdAt": "2026-05-15T19:59:42.812Z"
+    },
+    {
+      "id": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "name": "Riya",
+      "email": "riya@1234",
+      "password": "$2a$10$VSUKrP37mWYTFr2V3o2mxuoiK3eTyHGYcDLlPi.WDBYqrXwhtIs7a",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Fri May 22 2026",
+      "createdAt": "2026-05-22T04:42:00.966Z"
+    },
+    {
+      "id": "eb8a4602-aee7-40b8-9b17-55e07841f8b5",
+      "name": "shreya",
+      "email": "0231csai020@niet.co.in",
+      "password": "$2a$10$xxGxjIx5nIpdBJ0zf3lgiumQix8fL0dMXSszdLacgzU81QORvEYju",
+      "age": "22",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Fri May 22 2026",
+      "createdAt": "2026-05-22T04:57:40.193Z"
+    },
+    {
+      "id": "04385a52-b13d-47d9-898e-5e325648231a",
+      "name": "shreya ",
+      "email": "shreya@123",
+      "password": "$2a$10$.yGkZxElFRBbIiclecxa2ui8WT4s0LlTc8bgbLhlB6X57Bk24dhjW",
+      "age": "21",
+      "gender": "Female",
+      "streak": 1,
+      "lastCheckIn": "Fri May 22 2026",
+      "createdAt": "2026-05-22T06:54:22.186Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "ddf84d46-0783-41f5-b3bc-ab3ada3eb404",
+      "userId": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "inputText": "Mood: Okay, Intensity: 5/10, Triggers: Financial Stress, Sleep: 7h, Physical: , Social support: moderate, Notes: nothing",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Based on your input, primary signal is Depression. Score: 10/10. Remember — sharing is the first step to healing.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s — repeat 3 times now."
+          },
+          {
+            "emoji": "📝",
+            "title": "Journal it",
+            "detail": "Write 3 thoughts bothering you — paper reduces mental load."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min walk",
+            "detail": "Fresh air and movement resets your nervous system."
+          },
+          {
+            "emoji": "📞",
+            "title": "Call someone",
+            "detail": "Text one person who makes you feel safe right now."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Get sunlight",
+            "detail": "15 min sunlight boosts serotonin naturally."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "You're doing okay — professional support is always available.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation",
+          "steps": [
+            "Breathe in through nose — 4 seconds",
+            "Hold breath — 7 seconds",
+            "Exhale through mouth — 8 seconds",
+            "Repeat 3-4 times"
+          ]
+        },
+        "moodPrediction": "Tomorrow's estimate: 10.0 — rest aur self-care se improvement expected."
+      },
+      "date": "4/10/2026",
+      "createdAt": "2026-04-10T08:54:20.419Z"
+    },
+    {
+      "id": "7f38d1ef-e5a0-4701-b694-2fc1ef60c509",
+      "userId": "6e55caba-7e99-4ec5-8829-8802aca89aef",
+      "inputText": "Mood: Sad, Intensity: 5/10, Triggers: Padhai/Exam, Sleep: 7h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 8.6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Based on your input, primary signal is Stress. Score: 8.6/10. Remember — sharing is the first step to healing.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s — repeat 3 times now."
+          },
+          {
+            "emoji": "📝",
+            "title": "Journal it",
+            "detail": "Write 3 thoughts bothering you — paper reduces mental load."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min walk",
+            "detail": "Fresh air and movement resets your nervous system."
+          },
+          {
+            "emoji": "📞",
+            "title": "Call someone",
+            "detail": "Text one person who makes you feel safe right now."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Get sunlight",
+            "detail": "15 min sunlight boosts serotonin naturally."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "You're doing okay — professional support is always available.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation",
+          "steps": [
+            "Breathe in through nose — 4 seconds",
+            "Hold breath — 7 seconds",
+            "Exhale through mouth — 8 seconds",
+            "Repeat 3-4 times"
+          ]
+        },
+        "moodPrediction": "Tomorrow's estimate: 9.4 — rest aur self-care se improvement expected."
+      },
+      "date": "4/10/2026",
+      "createdAt": "2026-04-10T09:15:50.914Z"
+    },
+    {
+      "id": "a6acf6e7-d80d-47cb-bcf3-961a57ae29f5",
+      "userId": "cc548acc-792c-495d-9441-68f16b4851c6",
+      "inputText": "okay\n\n\n\n\n\n\n\n\n",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 25
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Overall aap theek lag rahe ho. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/10/2026",
+      "createdAt": "2026-04-10T09:25:51.679Z"
+    },
+    {
+      "id": "b3a569c5-6898-40f4-b5b1-18b5696d23b2",
+      "userId": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "inputText": "Mood: Anxious, Intensity: 5/10, Triggers: Financial Stress, Sleep: 7h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 8.5,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 22,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "anxious",
+          "stress"
+        ],
+        "detectedKeywords": [
+          "anxious",
+          "stress"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. \"anxious\" jaise words emotional distress indicate karte hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 9.3 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/12/2026",
+      "createdAt": "2026-04-12T14:41:44.772Z"
+    },
+    {
+      "id": "0b1bd091-7542-4b47-a3c7-02f2391f391a",
+      "userId": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "inputText": "Mood: Sad, Intensity: 5/10, Triggers: Padhai/Exam, Sleep: 7h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 8.6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "sad",
+          "exam"
+        ],
+        "detectedKeywords": [
+          "sad",
+          "exam"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein stress ke signs dikh rahe hain. \"sad\" jaise words emotional distress indicate karte hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 9.4 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/13/2026",
+      "createdAt": "2026-04-13T04:13:25.405Z"
+    },
+    {
+      "id": "494b4cbd-0b71-4bb8-bbf3-fd72b3557bfa",
+      "userId": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "inputText": "Mood: Anxious, Intensity: 5/10, Triggers: Ghar/Family, Sleep: 7h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 9.3,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 22,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "anxious"
+        ],
+        "detectedKeywords": [
+          "anxious"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. \"anxious\" jaise words emotional distress indicate karte hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/13/2026",
+      "createdAt": "2026-04-13T07:36:50.899Z"
+    },
+    {
+      "id": "ea4c11b8-3918-48c1-aa79-f41b05c2ae22",
+      "userId": "2b76d08f-7443-406b-acb2-1f712192076a",
+      "inputText": "my mind said to kill someone",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Overall aap theek lag rahe ho. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/13/2026",
+      "createdAt": "2026-04-13T07:39:34.756Z"
+    },
+    {
+      "id": "3b9f16ab-36ad-4992-8627-99ebe1bddcca",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "my brain tells me to kill myself\n",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Overall aap theek lag rahe ho. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Yeh mental load kam karta hai."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo — feel the calm"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T19:54:50.107Z"
+    },
+    {
+      "id": "0853ff18-7dba-4c7e-ba36-772328b344c7",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i dont want to live",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Mental load kam hoga."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:11:57.201Z"
+    },
+    {
+      "id": "cc444402-9c90-460d-942f-12e7e540488d",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i don't want to live",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Mental load kam hoga."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:14:28.068Z"
+    },
+    {
+      "id": "46639306-4880-47fa-87b7-9b91bed24204",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i do not want to live",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Remember — yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo — anxiety instantly kam hogi."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 minute ke liye sab kuch paper pe likho bina soche. Mental load kam hoga."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho. Movement brain chemistry reset karta hai."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek aise person ko call karo jo tumhe samjhe. Connection is medicine."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho — serotonin naturally boost hoga."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Aap manage kar rahe ho, lekin professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Relaxation Breath",
+          "steps": [
+            "Naak se 4 second ke liye gehri saansi lo",
+            "7 second ke liye saansi rok lo",
+            "Munh se 8 second mein poori saansi chodo",
+            "Yeh 3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka estimated score: 10.0 — thodi improvement expected with rest aur self-care. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:21:09.240Z"
+    },
+    {
+      "id": "e61ce101-da10-41d2-ba16-5c5df0401693",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i do not want to live",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — kisi ko bhi — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:27:52.581Z"
+    },
+    {
+      "id": "06ec95a5-c64f-42a5-8683-d7859a971d6b",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel depressed\n",
+      "analysis": {
+        "overallScore": 9.3,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "depressed"
+        ],
+        "detectedKeywords": [
+          "depressed"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein depression ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:31:35.364Z"
+    },
+    {
+      "id": "6cbace21-cd0a-47d1-bf24-bfb36bebbea0",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel depressed and do not want to live",
+      "analysis": {
+        "overallScore": 9.3,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "depressed"
+        ],
+        "detectedKeywords": [
+          "depressed"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein depression ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:40:34.451Z"
+    },
+    {
+      "id": "58418632-d923-4266-a20e-3ea7033ccb73",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel depressed and do not want to live",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 100,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 10
+        },
+        "selfFocusPercent": 90,
+        "detectedEmotions": [
+          "sadness",
+          "despair"
+        ],
+        "detectedKeywords": [
+          "depressed",
+          "not want to live"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "catastrophizing",
+            "phrase": "do not want to live",
+            "explanation": "Sometimes the mind convinces us that the pain will never end, but there is hope and support available."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "I can sense your deep pain and despair. Remember, these feelings are temporary and there are people who care about you. You are not alone.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take a Break",
+            "detail": "Give yourself permission to take a break, even if it's just a few minutes. Focus on self-care and be gentle with yourself."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Reach Out for Support",
+            "detail": "It's important to talk to someone you trust about how you're feeling. You deserve to be heard and supported."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Engage in a Hobby",
+            "detail": "Try engaging in activities you enjoy, even small things like listening to music or taking a short walk can help uplift your mood."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Practice Gratitude",
+            "detail": "Write down three things you're grateful for each day. It can help shift your focus to positive aspects of life."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Professional Help",
+            "detail": "Consider reaching out to a mental health professional who can provide you with the support you need to overcome these difficult feelings."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindfulness Exercise",
+            "detail": "Try a mindfulness exercise to help ground yourself in the present moment and ease overwhelming emotions."
+          }
+        ],
+        "affirmation": "आप अकेले नहीं हैं। हमेशा याद रखें कि आप महत्वपूर्ण हैं।",
+        "professionalAdvice": "It's important to seek help from a mental health professional. They can guide you through this difficult time with care and expertise.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale quietly through the nose for 4 seconds",
+            "Hold the breath for 7 seconds",
+            "Exhale forcefully through the mouth, making a whoosh sound, for 8 seconds",
+            "Repeat the cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might feel challenging, but remember, each day is a new opportunity for small positive changes."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T20:57:11.630Z"
+    },
+    {
+      "id": "fbeb8503-9b40-4ca9-99f2-4e65d695c447",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel like dying and i feel like killing someone",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:02:37.267Z"
+    },
+    {
+      "id": "96fd0cb6-64c4-44a3-8a43-4618f01f4b9c",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "feeling depressed\n",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 10
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "Sadness"
+        ],
+        "detectedKeywords": [
+          "depressed"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Negative Labeling",
+            "phrase": "feeling depressed",
+            "explanation": "It's common to feel this way at times, but it's important to remember that your feelings don't define you completely."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "It's okay to feel down sometimes, but remember, your sadness is temporary. You're not alone in this.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Prioritize Self-Care",
+            "detail": "Create a self-care routine that includes activities you enjoy, like reading a book or taking a walk."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Reach Out for Support",
+            "detail": "Consider talking to a friend or a mental health professional about how you're feeling."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Practice Gratitude",
+            "detail": "Write down three things you're grateful for every day to shift your focus to positivity."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Engage in Physical Activity",
+            "detail": "Exercise can help boost your mood and energy levels."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindfulness Practice",
+            "detail": "Try deep breathing exercises or meditation to bring calmness to your mind."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Limit Social Media",
+            "detail": "Take breaks from social media to reduce comparison and negative influence on your emotions."
+          }
+        ],
+        "affirmation": "तुम अबके लिए अच्छे दिन के लिए तैयार हो, और मैं यहाँ हूँ तुम्हारे साथ।",
+        "professionalAdvice": "It's important to consider seeking professional help to explore these feelings further.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale for 4 seconds through your nose",
+            "Hold your breath for 7 seconds",
+            "Exhale for 8 seconds through your mouth",
+            "Repeat for several cycles"
+          ]
+        },
+        "moodPrediction": "Remember, tomorrow is a new opportunity to start fresh and take small steps towards feeling better."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:10:17.112Z"
+    },
+    {
+      "id": "9463a318-7905-40b7-8312-026f9de9da3d",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel low and sad, also lost in my life , i do not have purpose in my life",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 30,
+          "stress": 60,
+          "resilience": 20
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "Sadness",
+          "Lost"
+        ],
+        "detectedKeywords": [
+          "low",
+          "sad",
+          "lost",
+          "purpose"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Filtering",
+            "phrase": "I do not have purpose in my life",
+            "explanation": "It's common to feel this way at times, but your worth is not defined by having a clear purpose."
+          },
+          {
+            "type": "Catastrophizing",
+            "phrase": "I feel low and sad",
+            "explanation": "It's okay to feel low sometimes, but these emotions are temporary and can be managed."
+          },
+          {
+            "type": "Personalization",
+            "phrase": "Lost in my life",
+            "explanation": "Feeling lost is a difficult emotion, but it doesn't mean you are alone in this journey."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "It's completely normal to feel low and lost at times, but remember, these feelings do not define you. You are capable of finding your way and rediscovering your purpose.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Rediscover Your Passion",
+            "detail": "Try engaging in activities that once brought you joy and meaning. Reconnecting with your passions can help you find purpose."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Seek Support",
+            "detail": "Talking to a trusted friend or a mental health professional can provide clarity and support in navigating this challenging time."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Practice Gratitude Daily",
+            "detail": "Reflect on things you are grateful for each day. Shifting your focus to positivity can help improve your outlook."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindful Meditation",
+            "detail": "Explore mindfulness techniques to ground yourself in the present moment and ease feelings of being lost."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Journal Your Thoughts",
+            "detail": "Writing down your feelings and thoughts can help you process emotions and gain insight into what brings meaning to your life."
+          }
+        ],
+        "affirmation": "तुम इस मुश्किल समय में अकेले नहीं हो, मैं यहाँ हूं तुम्हारे लिए।",
+        "professionalAdvice": "Seeking professional help from a therapist or counselor can provide you with the tools and support needed to navigate through these feelings effectively.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale quietly through the nose for a mental count of 4",
+            "Hold the breath for a count of 7",
+            "Exhale completely through the mouth, making a whoosh sound for a count of 8",
+            "Repeat the cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might feel challenging, but remember that each day is a new opportunity to rediscover your purpose and find moments of joy."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:11:27.250Z"
+    },
+    {
+      "id": "b8bf6cf5-c1b2-4c10-a640-3e5ed627cb13",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel downhearted, miserable and dejected \n",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 10,
+          "stress": 20,
+          "resilience": 30
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "sadness",
+          "despair"
+        ],
+        "detectedKeywords": [
+          "downhearted",
+          "miserable",
+          "dejected"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "All-or-Nothing Thinking",
+            "phrase": "i feel downhearted",
+            "explanation": "It's tough when things seem all negative. Remember, there are shades of gray in each situation."
+          },
+          {
+            "type": "Emotional Reasoning",
+            "phrase": "i feel dejected",
+            "explanation": "Your emotions are valid, but they don't define reality. You are not alone in feeling this way."
+          },
+          {
+            "type": "Filtering",
+            "phrase": "i feel miserable",
+            "explanation": "When we focus only on the negatives, it can amplify our feelings of misery. Let's try to find some positives together."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "I can see that you're feeling downhearted, miserable, and dejected. It's important to acknowledge these emotions and remember that they don't define your worth. You're capable of finding light even in the darkest moments.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Focus on Positives",
+            "detail": "Try to write down 3 things you're grateful for, no matter how small. It can help shift your focus."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Emotional Outlet",
+            "detail": "Express your feelings through writing or art. Sometimes creativity can be a powerful tool for processing emotions."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Connect with Nature",
+            "detail": "Spend some time outdoors, even if it's just for a short walk. Nature has a soothing effect on the mind and soul."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Self-compassion Break",
+            "detail": "Remind yourself that it's okay not to be okay. Treat yourself with the same kindness you would offer a friend in need."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Routine Reinforcement",
+            "detail": "Try to stick to a simple daily routine to provide a sense of stability and accomplishment."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindfulness Moment",
+            "detail": "Practice a short mindfulness exercise to bring your focus to the present moment and ease overwhelming thoughts."
+          }
+        ],
+        "affirmation": "तुम आजकल कठिनाईयों के बीच हो, पर धीरज बनाए रखना महत्वपूर्ण है। तुम अधिक सशक्त हो सकते हो जितना सोचते हो।",
+        "professionalAdvice": "Seeking support from a mental health professional can provide you with tools and strategies to navigate through this challenging phase.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale quietly through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale completely through your mouth, making a 'whoosh' sound, for a count of 8",
+            "Repeat the cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might bring moments of lightness amidst the heaviness you feel today. Remember, each day is a new chance for hope and healing."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:14:45.670Z"
+    },
+    {
+      "id": "48630991-3cc2-4cde-8e26-bc0acd8b7466",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i feel very happy today",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 25
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:15:33.185Z"
+    },
+    {
+      "id": "03f8187e-7359-4110-ad83-261bac1547ce",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "i felt joyful, lighthearted and completely at ease but my dog died ",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:17:05.274Z"
+    },
+    {
+      "id": "5dcaa7c2-d324-4823-8dd7-0256e81fc0c8",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "she felt joyful yet strangely melancholy as the memories came rushing back",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:17:58.507Z"
+    },
+    {
+      "id": "a340c878-c546-475f-8063-b962f0700aeb",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "she felt joyful yet strangely melancholy as the memories came rushing back",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:19:14.210Z"
+    },
+    {
+      "id": "f2990cbd-736e-4181-a71b-f30deb44b800",
+      "userId": "8c316ebf-aaab-4072-9b68-d0b49e9191ee",
+      "inputText": "she felt joyful yet strangely melancholy as the memories came rushing back",
+      "analysis": {
+        "overallScore": 7,
+        "primaryCondition": "Doing Well",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 10,
+          "stress": 30,
+          "resilience": 80
+        },
+        "selfFocusPercent": 40,
+        "detectedEmotions": [
+          "joy",
+          "melancholy"
+        ],
+        "detectedKeywords": [
+          "memories"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "It's wonderful to hear that you felt joyful amidst memories. It's okay to feel a mix of emotions like joy and melancholy. Memories have a way of bringing diverse feelings along.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Embrace the Mix",
+            "detail": "Acknowledge and embrace the joy and melancholy as they come with memories. It's a natural part of the human experience."
+          },
+          {
+            "emoji": "🧡",
+            "title": "Reflect with Gratitude",
+            "detail": "Take time to reflect on these memories with gratitude for the emotions they bring. Gratitude can amplify the joyful moments."
+          },
+          {
+            "emoji": "🌻",
+            "title": "Capture the Moment",
+            "detail": "Consider capturing these feelings through creative expression like writing or art. It can help process the mix of emotions."
+          },
+          {
+            "emoji": "🌿",
+            "title": "Mindful Moments",
+            "detail": "Practice mindfulness to stay present with these mixed emotions. Let them flow through you without judgment."
+          },
+          {
+            "emoji": "✨",
+            "title": "Self-compassion Reminder",
+            "detail": "Remind yourself that it's okay to feel complex emotions. Treat yourself with kindness and understanding during these moments."
+          },
+          {
+            "emoji": "🎶",
+            "title": "Find Comfort in Music",
+            "detail": "Explore calming music that resonates with these emotions. Music can soothe the soul during such reflective times."
+          }
+        ],
+        "affirmation": "आपके भावनाओं को समझना अच्छा है। आप अपनी भावनाओं के साथ साहस और समझदारी से निपट रहे हैं।",
+        "professionalAdvice": "Reflecting on your emotions and memories is a positive step. If you ever feel overwhelmed, consider reaching out to a mental health professional for additional support.",
+        "breathingExercise": {
+          "name": "Calming Waves Breath",
+          "steps": [
+            "Find a comfortable seated position.",
+            "Inhale deeply for 4 counts, imagining calming waves entering your body.",
+            "Exhale slowly for 6 counts, visualizing stress flowing out with the waves.",
+            "Repeat for 5-10 minutes."
+          ]
+        },
+        "moodPrediction": "Tomorrow might bring a sense of introspection and new insights as you continue to navigate through these mixed emotions."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-21T21:31:39.104Z"
+    },
+    {
+      "id": "8f81d2de-a70d-4ff8-8ad8-8e654ff9c720",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "i feel depressed",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:28:05.025Z"
+    },
+    {
+      "id": "67bb0415-f950-4dcd-8373-230787a55cb3",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "my mind tells me to kill someone",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 90,
+          "stress": 50,
+          "resilience": 10
+        },
+        "selfFocusPercent": 85,
+        "detectedEmotions": [
+          "fear",
+          "anxiety"
+        ],
+        "detectedKeywords": [
+          "kill",
+          "mind"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Catastrophizing",
+            "phrase": "my mind tells me to kill someone",
+            "explanation": "Sometimes our mind exaggerates thoughts, it's important to stay calm and seek help."
+          },
+          {
+            "type": "Thought-Action Fusion",
+            "phrase": "my mind tells me to kill someone",
+            "explanation": "Thinking something doesn't mean it will happen, it's a common anxiety pattern."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "I can understand that feeling, but it's crucial to remember that thoughts don't define actions. It might help to share these thoughts with a trusted person and consider professional support.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take a Break",
+            "detail": "When such thoughts arise, try taking a break, deep breathing, and focusing on something calming."
+          },
+          {
+            "emoji": "🛀",
+            "title": "Self-Care Time",
+            "detail": "Engage in self-care activities that soothe your mind and body, like a warm bath or listening to calming music."
+          },
+          {
+            "emoji": "🪴",
+            "title": "Nature Walk",
+            "detail": "Nature can be therapeutic, try taking a walk amidst greenery to clear your mind."
+          },
+          {
+            "emoji": "🎨",
+            "title": "Art Therapy",
+            "detail": "Express your emotions through art, drawing or painting can help release pent-up feelings."
+          },
+          {
+            "emoji": "📚",
+            "title": "Mindful Reading",
+            "detail": "Reading can transport you to a different world, easing your mind from intrusive thoughts."
+          },
+          {
+            "emoji": "🌅",
+            "title": "Sunlight Exposure",
+            "detail": "Spending time in natural light can boost your mood and help you feel more positive."
+          }
+        ],
+        "affirmation": "तनाव और भय की स्थिति में होना आम बात है। आप अपने विचारों को नियंत्रित कर सकते हैं।",
+        "professionalAdvice": "Seeking help from a mental health professional can provide you with coping strategies to manage such distressing thoughts.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale through your mouth for a count of 8",
+            "Repeat this cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might bring a lighter feeling if you engage in self-care and reach out for support."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:28:42.838Z"
+    },
+    {
+      "id": "3a8935d3-0052-415c-a2c6-a49fdb2710c5",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "i am feeling very low today",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 10,
+          "stress": 20,
+          "resilience": 10
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "sadness",
+          "low mood"
+        ],
+        "detectedKeywords": [
+          "feeling low"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "All-or-Nothing Thinking",
+            "phrase": "feeling very low",
+            "explanation": "It's common to see things in extreme black-and-white terms when feeling down. Remember, it's okay to have ups and downs in emotions."
+          },
+          {
+            "type": "Emotional Reasoning",
+            "phrase": "feeling very low",
+            "explanation": "Your emotions don't define your worth. It's important to be kind to yourself, especially when feeling low."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "It sounds like you're having a tough day and feeling really down. Remember, it's okay to not be okay. Be gentle with yourself and try to engage in activities that bring you comfort and peace.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take a Walk Outside",
+            "detail": "Stepping outside for a short walk can help to clear your mind and uplift your mood, even if just a little."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Listen to Calming Music",
+            "detail": "Putting on some soothing music that resonates with your emotions can provide a sense of emotional relief."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Write Down Your Thoughts",
+            "detail": "Writing down what you're feeling can help you process your emotions and gain clarity on your thoughts."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Reach Out to a Trusted Person",
+            "detail": "Speaking to someone you trust about how you're feeling can lighten the emotional load and offer support."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Practice Deep Breathing",
+            "detail": "Try taking slow, deep breaths to calm your mind and relax your body during this tough time."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Focus on Self-Compassion",
+            "detail": "Be kind to yourself like you would to a friend going through a tough time. Remember, you deserve love and care."
+          }
+        ],
+        "affirmation": "आपकी भावनाएं समझी गई हैं। आप अकेलेपन महसूस कर रहे हैं, पर धैर्य बनाए रखना और अपने आप से दयालु रहना बहुत महत्वपूर्ण है।",
+        "professionalAdvice": "It might be beneficial to consider talking to a mental health professional for additional support and guidance during this challenging time.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale quietly through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale forcefully through your mouth for a count of 8",
+            "Repeat the cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might still have its challenges, but remember that each day is a new opportunity to start afresh and take small steps towards feeling better."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:40:55.131Z"
+    },
+    {
+      "id": "c0ae7651-e76f-424f-8598-8daeccc53e9c",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "i am feeling irritated and restless, like i want to fight with someone",
+      "analysis": {
+        "overallScore": 3,
+        "primaryCondition": "Anger",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 10,
+          "stress": 30,
+          "resilience": 40
+        },
+        "selfFocusPercent": 70,
+        "detectedEmotions": [
+          "irritation",
+          "restlessness"
+        ],
+        "detectedKeywords": [
+          "fight"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Filtering",
+            "phrase": "i want to fight with someone",
+            "explanation": "Sometimes when we feel irritated, our mind focuses on negative thoughts. It's important to find healthier ways to address these emotions."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "I can sense you're feeling irritated and restless, and the thought of fighting is on your mind. It's crucial to address these feelings positively to prevent any escalation.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take a Breather",
+            "detail": "When you feel like fighting, step back and take a few deep breaths. It can help calm your mind and prevent impulsive actions."
+          },
+          {
+            "emoji": "🌿",
+            "title": "Engage in Physical Activity",
+            "detail": "Consider going for a walk or doing a quick workout to release pent-up energy and reduce feelings of restlessness."
+          },
+          {
+            "emoji": "🧘",
+            "title": "Try Meditation",
+            "detail": "Meditating for a few minutes can help you gain clarity and reduce feelings of irritation."
+          },
+          {
+            "emoji": "📝",
+            "title": "Journal Your Thoughts",
+            "detail": "Writing down your feelings can provide a healthy outlet for your frustrations."
+          },
+          {
+            "emoji": "🎵",
+            "title": "Listen to Calming Music",
+            "detail": "Music has a soothing effect on our emotions. Try listening to calming tracks to relax your mind."
+          },
+          {
+            "emoji": "🎨",
+            "title": "Express Through Art",
+            "detail": "Channel your emotions into creative outlets like drawing or painting. It can be a therapeutic way to release tension."
+          }
+        ],
+        "affirmation": "तनाव के समय में संतुलन बनाए रखना महत्वपूर्ण है। धैर्य रखें और सकारात्मक दिशा में सोचें।",
+        "professionalAdvice": "Seeking support from a mental health professional can provide you with effective strategies to manage your anger and restlessness.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale slowly through your mouth for a count of 8",
+            "Repeat for a few cycles"
+          ]
+        },
+        "moodPrediction": "Tomorrow might bring a sense of calm if you focus on positive outlets for your emotions today."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:41:44.343Z"
+    },
+    {
+      "id": "609099e7-eeb6-4ec3-a90f-d4068da5efad",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "muje waffle khana h\n",
+      "analysis": {
+        "overallScore": 8,
+        "primaryCondition": "Doing Well",
+        "conditions": {
+          "depression": 10,
+          "anxiety": 5,
+          "stress": 3,
+          "resilience": 85
+        },
+        "selfFocusPercent": 20,
+        "detectedEmotions": [
+          "nostalgic",
+          "neutral"
+        ],
+        "detectedKeywords": [
+          "waffle"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Wah! Waffle khana yaad dilata hai aapko kuch purane acche pal. Yeh khushi ka ek chota pal hai, isey anand lekar aage badhiye.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Waffle Fun",
+            "detail": "Waffle khaane ka plan banaiye aur kisi special jagah ya friend ke saath maza kijiye."
+          },
+          {
+            "emoji": "🍴",
+            "title": "Cooking Love",
+            "detail": "Kya aap ghar par khud se waffles banane ki koshish karna chahte hain? Yeh creative activity aapko khushi de sakti hai."
+          },
+          {
+            "emoji": "🌞",
+            "title": "Self-Care",
+            "detail": "Kuch meetha khane se mood bhi achha hota hai. Isme indulgence karke khud ko thoda pamper kijiye."
+          },
+          {
+            "emoji": "🥞",
+            "title": "Treat Yourself",
+            "detail": "Kabhi kabhi apne aap ko kuch special khilana bhi jaruri hota hai. Waffle kha kar khud ko reward kijiye."
+          },
+          {
+            "emoji": "🧇",
+            "title": "Happy Memories",
+            "detail": "Waffle khana ek blissful experience ho sakta hai. Isey enjoy karte hue present moment ka anand lijiye."
+          },
+          {
+            "emoji": "🎉",
+            "title": "Celebration",
+            "detail": "Choti choti khushiyan bhi life ko khubsurat banati hain. Waffle kha kar aap apne aap ko celebrate kijiye."
+          }
+        ],
+        "affirmation": "Aapki khushi mein humein bhi khushi milti hai. Waffle ka anand lijiye!",
+        "professionalAdvice": "Agar koi pareshani ho to kripya ek therapist se milein. Voh aapki madad kar sakte hain.",
+        "breathingExercise": {
+          "name": "4-7-8 Pranayam",
+          "steps": [
+            "Gehri saans lo (4 second tak)",
+            "7 second tak rokiye",
+            "Dheere se saans chhodo (8 second tak)",
+            "Repeat 3-4 baar"
+          ]
+        },
+        "moodPrediction": "Kal aapka din bhi waffle ki tarah tasty aur khushboo bhara hoga, aise hi positive aur energetic."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:42:52.598Z"
+    },
+    {
+      "id": "d37f2382-edd6-427d-a30e-5d574d609cbb",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "muje pizza khana h pr koi khila nhi rha, ab m ro dungi",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Loneliness",
+        "conditions": {
+          "depression": 30,
+          "anxiety": 20,
+          "stress": 40,
+          "resilience": 10
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "Sadness",
+          "Frustration"
+        ],
+        "detectedKeywords": [
+          "pizza",
+          "khana",
+          "khila",
+          "ro"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Magnification",
+            "phrase": "koi khila nhi rha",
+            "explanation": "Aksar hum chote cheezon ko bada bana lete hain. Shayad kisi ki bhavnao ka samman karne mein deri ho rahi hogi."
+          },
+          {
+            "type": "Personalization",
+            "phrase": "m ro dungi",
+            "explanation": "Kabhi kabhi hum apne aap ko zimmedar mehsoos karte hain jab koi hamari ichha nahi puri karta, par aisa nahi hai."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "Pizza khane ki ichha hona bilkul normal hai, par jab koi na khilaye toh akela mehsoos hone lagta hai. Aapki feelings samajh sakte hain.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Koshish karein",
+            "detail": "Koshish karein kisi dost ko ya family member ko saath bulane ki, shayad koi aapko pizza khilane le aaye."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mehsoos karein",
+            "detail": "Apne pyaaron se apne emotions share karne se aapko acha feel hone lagega."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Khud ko treat karein",
+            "detail": "Kisi din khud ke liye pizza order karke apne aap ko khilayein, khud par dhyaan dijiye."
+          }
+        ],
+        "affirmation": "Apki feelings ko samajhna hamare liye bhi zaroori hai. Aap bilkul akeli mehsoos nahi kar rahe hain.",
+        "professionalAdvice": "Kabhi kabhi humein apne emotions ko share karne mein taklif hoti hai, ek counselor se baat karna aapki madad kar sakta hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Pranayam",
+          "steps": [
+            "Neeche se saans lete hue gaib saankh hai 4 tak",
+            "7 tak rokein",
+            "8 tak dheere se chhodein"
+          ]
+        },
+        "moodPrediction": "Kal ka din shayad aaj se thoda behtar hoga, agar aap kisi se milte hain ya apne dil ki sunte hain."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T04:44:04.115Z"
+    },
+    {
+      "id": "4e174bd2-e8fd-4a77-b757-bbb8da201782",
+      "userId": "1ece3bfd-d691-4624-ae77-948828a48eb8",
+      "inputText": "Mood: Overwhelmed, Intensity: 3/10, Triggers: Dost/Relationship, Sleep: 7h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "overwhelmed"
+        ],
+        "detectedKeywords": [
+          "overwhelmed"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein stress ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T05:16:57.935Z"
+    },
+    {
+      "id": "280f58e3-e5e7-4cf7-bb6a-a4d8b983090f",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "yr ye clg walo ne dimg kharab kr rakha hai bhut gussa aa rha pagal se , gawarrrrr, mood khrb kr diya h, ek hi din mai itna kaam ",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:19:14.082Z"
+    },
+    {
+      "id": "edf8d0d5-7c85-4607-b893-5c818b51743e",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "mera mood bhut khrb hai and i am feeling angry and sad",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:20:25.509Z"
+    },
+    {
+      "id": "eec74b96-258e-4f1d-8b14-a79130160b71",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "mera is website ki vjhe s bhut sir drd ho rha h",
+      "analysis": {
+        "overallScore": 3,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 40,
+          "stress": 80,
+          "resilience": 30
+        },
+        "selfFocusPercent": 60,
+        "detectedEmotions": [
+          "stress",
+          "pain"
+        ],
+        "detectedKeywords": [
+          "website",
+          "headache"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Lagta hai website se related issues aapko stress kar rahe hain aur iska asar aapke sir par bhi ho raha hai. Kisi cheez ko thoda door se dekh kar stress ko kam karne ki koshish karein. Aap achhe se relaxation techniques ka istemal karein.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Apni nigaahen araam se padhen",
+            "detail": "Website ke muddon ko hal karne ke liye ek choti si break lein aur fresh hokar wapas aayen."
+          },
+          {
+            "emoji": "🧘",
+            "title": "Dheemi saans lein",
+            "detail": "Saansein dheemi karein aur 10 ginti tak har saans ko gahrayi se lein, isse aapko aram milega."
+          },
+          {
+            "emoji": "🌿",
+            "title": "Nimbu paani piyen",
+            "detail": "Nimbu paani ka sewan karein, yeh stress ko kam karne mein madad karega."
+          }
+        ],
+        "affirmation": "Aap samajh rahe hain apne feelings ko, yeh bahut badi baat hai. Dhire dhire sab theek ho jayega.",
+        "professionalAdvice": "Agar sir dard lambe samay tak bana rahe to ek healthcare professional se milna faydemand ho sakta hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Pranayam",
+          "steps": [
+            "Saans lete samay ginti band karein",
+            "Saansein 4 ginti tak rokein",
+            "Saansein 7 ginti tak andar lein",
+            "Saansein 8 ginti tak bahar chhodein"
+          ]
+        },
+        "moodPrediction": "Kal aapka din thoda behtar dikh raha hai. Aaram se kaam karne ka prayas karein."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:24:45.003Z"
+    },
+    {
+      "id": "0ef6f08f-9f4e-4511-b0ec-8d52da1e4578",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "i feel very low nowadays and i feel like not going anywhere , also not talking to anyone",
+      "analysis": {
+        "overallScore": 3,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 20,
+          "stress": 30,
+          "resilience": 10
+        },
+        "selfFocusPercent": 95,
+        "detectedEmotions": [
+          "sadness",
+          "isolation"
+        ],
+        "detectedKeywords": [
+          "low",
+          "not going anywhere",
+          "not talking to anyone"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Emotional Reasoning",
+            "phrase": "i feel very low",
+            "explanation": "Our emotions don't always reflect reality, you are valued and important."
+          },
+          {
+            "type": "Mind Reading",
+            "phrase": "i feel like not talking to anyone",
+            "explanation": "It's okay to take time for yourself, but reaching out can help ease the loneliness."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "I can sense that you are going through a tough time and feeling very low, which is completely valid. Remember, your worth is not defined by your productivity or social interactions.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Reach Out for Support",
+            "detail": "Even though it's hard, consider talking to a trusted friend or a mental health professional to share your feelings."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Set Small Goals",
+            "detail": "Start with small achievable goals daily to bring a sense of accomplishment and positivity."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Self-Care Routine",
+            "detail": "Create a self-care routine with activities you enjoy to nurture your emotional well-being."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Express Through Creativity",
+            "detail": "Try expressing your emotions through art, writing, or any creative outlet that resonates with you."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Practice Mindfulness",
+            "detail": "Engage in mindfulness exercises or meditation to bring a sense of calmness and clarity to your thoughts."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Physical Activity",
+            "detail": "Consider light physical activities like walking or yoga to boost your mood and energy levels."
+          }
+        ],
+        "affirmation": "आपकी भावनाएँ समझी जा रही हैं। याद रखें, आप महत्वपूर्ण हैं और आपका मूल्य आपके सामाजिक इंटरेक्शन से नहीं निर्धारित होता।",
+        "professionalAdvice": "Taking professional help from a therapist can provide you with the necessary tools and support to navigate through this challenging phase.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale for 4 seconds through your nose",
+            "Hold your breath for 7 seconds",
+            "Exhale slowly for 8 seconds through your mouth",
+            "Repeat the cycle for a few minutes"
+          ]
+        },
+        "moodPrediction": "Tomorrow might feel a bit overwhelming, but remember that you are capable of facing the day with strength and resilience."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:34:04.074Z"
+    },
+    {
+      "id": "56c02191-5262-42e2-a3a1-0ce7559406fe",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "i feel like not going anywhere, also i  feel very restless and anxious",
+      "analysis": {
+        "overallScore": 3,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 80,
+          "stress": 40,
+          "resilience": 50
+        },
+        "selfFocusPercent": 70,
+        "detectedEmotions": [
+          "restlessness",
+          "anxiety"
+        ],
+        "detectedKeywords": [
+          "not going anywhere",
+          "restless",
+          "anxious"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "I'm here to support you through this feeling of restlessness and anxiety. It's important to acknowledge these emotions and take small steps to address them.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take Small Steps",
+            "detail": "Try going for a short walk outside to change the environment and help ease the restlessness."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Deep Breathing",
+            "detail": "Practice deep breathing exercises to calm your mind and body when you feel anxious."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindful Distraction",
+            "detail": "Engage in a hobby or activity you enjoy to redirect your focus away from feeling like not going anywhere."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Reach Out",
+            "detail": "Consider talking to a trusted friend or loved one about how you're feeling to feel less alone."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Mindfulness Practice",
+            "detail": "Try mindfulness meditation to ground yourself in the present moment and reduce anxiety."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Stay Hydrated",
+            "detail": "Remember to drink water regularly as dehydration can contribute to feelings of restlessness."
+          }
+        ],
+        "affirmation": "तुम बहुत सामर्थ्यशाली हो और मैं तुम्हारे साथ हूं।",
+        "professionalAdvice": "Speaking to a mental health professional could provide you with additional support in managing your anxiety.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale quietly through the nose for a mental count of 4",
+            "Hold the breath for a count of 7",
+            "Exhale forcefully through the mouth, pursing the lips and making a 'whoosh' sound, for a count of 8",
+            "Repeat the cycle for a few rounds"
+          ]
+        },
+        "moodPrediction": "It's normal to feel anxious and restless at times, but remember that tomorrow might bring new opportunities for you to feel more at ease."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:36:33.006Z"
+    },
+    {
+      "id": "8087c3c9-1c3c-4991-9593-b6941166671f",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "i am depressed",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:36:45.675Z"
+    },
+    {
+      "id": "60f2eeec-7eee-4c3c-be76-7a19742cf47e",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "Mood: Sad, Intensity: 10/10, Triggers: Future Uncertainty, Work Pressure, Sleep: 3h, Physical: Headache, Loss of appetite, Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:37:44.477Z"
+    },
+    {
+      "id": "c2d3d359-a77c-45a8-8288-bec87006b293",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "mera mood bahut kharab hai and i feel restless",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 80,
+          "stress": 60,
+          "resilience": 30
+        },
+        "selfFocusPercent": 70,
+        "detectedEmotions": [
+          "sadness",
+          "restlessness"
+        ],
+        "detectedKeywords": [
+          "kharaab",
+          "restless"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "It sounds like you're going through a tough time and feeling restless. Remember, it's okay to not be okay. Take a deep breath and try to focus on small moments of peace.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Focus on Breathing",
+            "detail": "Try breathing exercises to calm your mind when feeling restless."
+          },
+          {
+            "emoji": "🧘",
+            "title": "Mindfulness Break",
+            "detail": "Take short mindfulness breaks to bring peace to your mind."
+          },
+          {
+            "emoji": "🪴",
+            "title": "Nature Connection",
+            "detail": "Spending time in nature can help uplift your mood and calm restlessness."
+          },
+          {
+            "emoji": "🎶",
+            "title": "Music TherapY",
+            "detail": "Listen to soothing music to soothe your mind and emotions."
+          },
+          {
+            "emoji": "📝",
+            "title": "Journaling",
+            "detail": "Write down your thoughts and feelings to release some of the restlessness you're experiencing."
+          }
+        ],
+        "affirmation": "रुको मानस, ये वक़्त भी गुज़र जाएगा। धैर्य रखो और समय के साथ सब ठीक हो जाएगा।",
+        "professionalAdvice": "Seeking support from a mental health professional can provide you with tools to manage these feelings.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale slowly through your mouth for a count of 8",
+            "Repeat for a few cycles"
+          ]
+        },
+        "moodPrediction": "Tomorrow might bring some challenges, but remember, you have the strength to face them and find moments of peace."
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:41:50.862Z"
+    },
+    {
+      "id": "f51adfb5-54c3-47a3-8e71-45b85af62401",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "aj mai bahut sad feel kr hi also restless",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "4/22/2026",
+      "createdAt": "2026-04-22T06:44:11.915Z"
+    },
+    {
+      "id": "d20217a2-6fd3-404a-93cf-14918bb5860c",
+      "userId": "86f98f99-071c-4212-a086-d4533720b3e9",
+      "inputText": "i feel like killing myself or suicide",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "5/16/2026",
+      "createdAt": "2026-05-15T20:00:18.960Z"
+    },
+    {
+      "id": "6beb6ea1-8d0c-4f9f-80ab-3b245b9b0405",
+      "userId": "86f98f99-071c-4212-a086-d4533720b3e9",
+      "inputText": "Mood: Anxious, Intensity: 8/10, Triggers: Padhai/Exam, Sleep: 3h, Physical: , Social support: moderate, Notes: ",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 22,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "anxious",
+          "exam"
+        ],
+        "detectedKeywords": [
+          "anxious",
+          "exam"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "5/16/2026",
+      "createdAt": "2026-05-15T20:02:02.172Z"
+    },
+    {
+      "id": "510efc5d-5f49-4047-b058-38e6c6a1c7fa",
+      "userId": "130fe699-88ee-4e58-97b9-f2e558686702",
+      "inputText": "my brain is telling me kill someone",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:33:08.089Z"
+    },
+    {
+      "id": "0935c640-9620-4138-82ad-7f3c21a23585",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "i feel like killing myself",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:42:18.656Z"
+    },
+    {
+      "id": "cd0e933f-35de-4a6f-939e-b43029a44db7",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "i am feeling very sad. i want to kill someone",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:46:56.567Z"
+    },
+    {
+      "id": "ec8a542b-cd4a-40c4-9446-1f2b33b730dd",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "Mood: Overwhelmed, Intensity: 10/10, Triggers: Padhai/Exam, Sleep: 0h, Physical: Headache, Rapid heartbeat, Overeating, Social support: none, Notes: no",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 100,
+          "resilience": 0
+        },
+        "selfFocusPercent": 80,
+        "detectedEmotions": [
+          "Overwhelmed"
+        ],
+        "detectedKeywords": [
+          "Padhai",
+          "Exam",
+          "Headache",
+          "Rapid heartbeat",
+          "Overeating"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "I can sense that you're feeling completely overwhelmed right now, especially due to the pressure of exams and studying. It's understandable to feel this way with everything going on.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take Short Breaks",
+            "detail": "Try taking short breaks in between study sessions to relax your mind and body."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Healthy Snacks",
+            "detail": "Instead of overeating, opt for healthy snacks to keep your energy levels stable."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Deep Breathing",
+            "detail": "Practice deep breathing exercises to calm your rapid heartbeat and ease the tension."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Reach Out",
+            "detail": "Consider reaching out to a friend or a helpline for some social support during this tough time."
+          }
+        ],
+        "affirmation": "तुम एक strong और capable हो, तुम इस situation से बाहर निकल सकते हो।",
+        "professionalAdvice": "Remember, it's okay to seek help from a counselor or therapist to manage your stress levels effectively.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale for 4 seconds",
+            "Hold breath for 7 seconds",
+            "Exhale for 8 seconds",
+            "Repeat for several cycles"
+          ]
+        },
+        "moodPrediction": "Tomorrow might feel a bit lighter if you can address some of the stress triggers and prioritize self-care."
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:50:44.694Z"
+    },
+    {
+      "id": "bc148de4-6f3c-4b21-9916-c89a13edaa84",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "i am feeling tired",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "tired"
+        ],
+        "detectedKeywords": [
+          "tired"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein stress ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:51:12.503Z"
+    },
+    {
+      "id": "ad005278-abb6-4d99-96ab-438ee99ee4d5",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "i feel tired but not that sad",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:51:51.712Z"
+    },
+    {
+      "id": "a707bb27-3e6c-4493-9447-5fae0eace1af",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "I am happy and feeling good\n",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Doing Well",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 100
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "Happy"
+        ],
+        "detectedKeywords": [
+          "happy",
+          "feeling good"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "I'm really glad to hear that you're happy and feeling good. It's important to cherish these moments of joy.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Embrace the Positivity",
+            "detail": "Keep nurturing the things that make you happy and continue to focus on the good."
+          },
+          {
+            "emoji": "🥰",
+            "title": "Gratitude Practice",
+            "detail": "Consider expressing gratitude for the positive feelings and experiences in your life."
+          },
+          {
+            "emoji": "🌞",
+            "title": "Soak Up the Sunshine",
+            "detail": "Enjoy the positivity surrounding you and let it brighten your days."
+          },
+          {
+            "emoji": "🌼",
+            "title": "Spread Happiness",
+            "detail": "Spread your happiness to others around you and create a ripple of positivity."
+          },
+          {
+            "emoji": "💫",
+            "title": "Stay Connected",
+            "detail": "Stay connected with your loved ones and share your happiness with them."
+          },
+          {
+            "emoji": "🏞️",
+            "title": "Nature's Bliss",
+            "detail": "Spend time in nature to enhance your mood and well-being further."
+          }
+        ],
+        "affirmation": "It's wonderful to hear that you're feeling happy and good!",
+        "professionalAdvice": "It's great to prioritize your mental well-being. Keep doing what brings you joy.",
+        "breathingExercise": {
+          "name": "Happy Breath",
+          "steps": [
+            "Inhale slowly for 4 seconds",
+            "Hold for 4 seconds",
+            "Exhale gently for 6 seconds",
+            "Repeat a few times"
+          ]
+        },
+        "moodPrediction": "Tomorrow seems bright and positive for you. Carry forward this happiness!"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:53:54.306Z"
+    },
+    {
+      "id": "b6456e72-bae5-4b29-8e16-001e8a2d3802",
+      "userId": "79d4f777-2dcb-46a4-8678-2716691462ba",
+      "inputText": "i don't like doing anything, i feel empty inside",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Depression",
+        "conditions": {
+          "depression": 20,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "empty"
+        ],
+        "detectedKeywords": [
+          "empty"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein depression ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T04:55:08.935Z"
+    },
+    {
+      "id": "318a0fdb-bbdd-4d94-9e1f-3cdb42d4e284",
+      "userId": "eb8a4602-aee7-40b8-9b17-55e07841f8b5",
+      "inputText": "my friend is not talking properly. My two friends fought with each other and now one of them is angry with me idk why. I feel so stuck between them",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T05:24:31.370Z"
+    },
+    {
+      "id": "317991ae-c373-4ee0-bced-2906f700477b",
+      "userId": "eb8a4602-aee7-40b8-9b17-55e07841f8b5",
+      "inputText": "my friend is not talking properly. My two friends fought with each other and now one of them is angry with me idk why. I feel so stuck between them",
+      "analysis": {
+        "overallScore": 10,
+        "primaryCondition": "Anxiety",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 0,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [],
+        "detectedKeywords": [],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein anxiety ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 10.0 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T05:27:33.316Z"
+    },
+    {
+      "id": "c0c46793-8878-456f-9caf-8549ccc0263b",
+      "userId": "eb8a4602-aee7-40b8-9b17-55e07841f8b5",
+      "inputText": "my friend is not talking properly. My two friends fought with each other and now one of them is angry with me idk why. I feel so stuck between them",
+      "analysis": {
+        "overallScore": 2,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 10,
+          "anxiety": 20,
+          "stress": 90,
+          "resilience": 30
+        },
+        "selfFocusPercent": 70,
+        "detectedEmotions": [
+          "confusion",
+          "stress",
+          "frustration"
+        ],
+        "detectedKeywords": [
+          "friend",
+          "not talking",
+          "fought",
+          "angry",
+          "stuck"
+        ],
+        "cognitiveDistortions": [
+          {
+            "type": "Personalization",
+            "phrase": "one of them is angry with me idk why",
+            "explanation": "It's common to blame oneself, but remember, their conflict is not your fault."
+          },
+          {
+            "type": "Mind Reading",
+            "phrase": "one of them is angry with me idk why",
+            "explanation": "Assuming the reason without direct communication can lead to misunderstandings."
+          }
+        ],
+        "crisisDetected": false,
+        "explainableOutput": "It sounds really tough to be caught in the middle of your friends' conflict. Remember, their issues are between them, and you deserve peace in this situation.",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "Take Time for Yourself",
+            "detail": "Spend some quality time alone to reflect on your feelings and prioritize your well-being."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Communication is Key",
+            "detail": "Consider reaching out to each friend separately to understand their perspectives and express how you feel."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Setting Boundaries",
+            "detail": "It's important to set boundaries to protect your mental health amidst this conflict."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Seek Support",
+            "detail": "Talking to a trusted person or a counselor can provide valuable insights and emotional support."
+          },
+          {
+            "emoji": "🫁",
+            "title": "Focus on Positivity",
+            "detail": "Try engaging in activities that bring you joy and positivity to counterbalance the stress from this situation."
+          }
+        ],
+        "affirmation": "तुम इस मुश्किल समय में होने के बावजूद बहुत मजबूत हो। तुम्हारे दोस्तों के बीच क्या चल रहा है वह समझना मुश्किल है, पर तुम यह सभी को सामने लेने के लिए तैयार हो।",
+        "professionalAdvice": "Remember, seeking guidance from a therapist can provide you with coping strategies and clarity in handling this challenging situation.",
+        "breathingExercise": {
+          "name": "4-7-8 Breathing Technique",
+          "steps": [
+            "Inhale deeply through your nose for a count of 4",
+            "Hold your breath for a count of 7",
+            "Exhale slowly through your mouth for a count of 8",
+            "Repeat for several breath cycles"
+          ]
+        },
+        "moodPrediction": "Tomorrow may bring a chance for clearer communication and understanding between you and your friends, leading to some relief from the current stress."
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T05:28:36.156Z"
+    },
+    {
+      "id": "34e46a90-9bea-4402-bb75-017d237ae764",
+      "userId": "04385a52-b13d-47d9-898e-5e325648231a",
+      "inputText": "i feel like killing myself",
+      "analysis": {
+        "overallScore": 1,
+        "primaryCondition": "Crisis",
+        "conditions": {
+          "depression": 90,
+          "anxiety": 90,
+          "stress": 90,
+          "resilience": 5
+        },
+        "selfFocusPercent": 10,
+        "detectedEmotions": [
+          "distress",
+          "hopelessness"
+        ],
+        "detectedKeywords": [
+          "crisis"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": true,
+        "explainableOutput": "Tumne jo likha hai usme bahut zyada dard dikh raha hai. Tum akele nahi ho — abhi kisi se baat karo. Yeh share karna bahut brave hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "📞",
+            "title": "iCall Helpline",
+            "detail": "Abhi call karo: 9152987821 — trained counselors hain jo samjhenge, judge nahi karenge."
+          },
+          {
+            "emoji": "🆘",
+            "title": "Vandrevala Foundation",
+            "detail": "24/7 available: 1860-2662-345 — free, confidential support."
+          },
+          {
+            "emoji": "💬",
+            "title": "Kisi trusted insaan ko batao",
+            "detail": "Ek friend, family member, ya teacher — abhi message karo."
+          },
+          {
+            "emoji": "🏥",
+            "title": "Nearest hospital",
+            "detail": "Agar safe nahi feel ho raha toh nearest hospital emergency mein jao."
+          }
+        ],
+        "affirmation": "Tum bahut brave ho jo yahan aaye. Madad maangna strength hai. 💜",
+        "professionalAdvice": "Please abhi iCall (9152987821) pe call karo — yeh free aur confidential hai.",
+        "breathingExercise": {
+          "name": "Grounding Breath",
+          "steps": [
+            "Aankhein band karo",
+            "Naak se gehri saansi lo — 4 second",
+            "Rok lo — 4 second",
+            "Munh se chodo — 4 second. Repeat karo."
+          ]
+        },
+        "moodPrediction": "Madad lene ke baad kal thoda better feel hoga. Tum yeh kar sakte ho. 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T06:54:37.792Z"
+    },
+    {
+      "id": "4e3d5116-629d-48be-8129-5f2e757b2090",
+      "userId": "04385a52-b13d-47d9-898e-5e325648231a",
+      "inputText": "i am tired",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "tired"
+        ],
+        "detectedKeywords": [
+          "tired"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein stress ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T06:54:56.009Z"
+    },
+    {
+      "id": "c908c814-0870-45f9-9e1c-f0b018dec26d",
+      "userId": "04385a52-b13d-47d9-898e-5e325648231a",
+      "inputText": "i feel very tired",
+      "analysis": {
+        "overallScore": 6,
+        "primaryCondition": "Stress",
+        "conditions": {
+          "depression": 0,
+          "anxiety": 0,
+          "stress": 22,
+          "resilience": 0
+        },
+        "selfFocusPercent": 31,
+        "detectedEmotions": [
+          "tired"
+        ],
+        "detectedKeywords": [
+          "tired"
+        ],
+        "cognitiveDistortions": [],
+        "crisisDetected": false,
+        "explainableOutput": "Tumhare input mein stress ke signs dikh rahe hain. Yeh share karna hi ek brave kadam hai. 💜",
+        "personalizedSuggestions": [
+          {
+            "emoji": "🫁",
+            "title": "4-7-8 Breathing",
+            "detail": "Inhale 4s, hold 7s, exhale 8s. Abhi 3 baar karo."
+          },
+          {
+            "emoji": "📝",
+            "title": "Brain Dump",
+            "detail": "5 min sab kuch paper pe likho bina soche."
+          },
+          {
+            "emoji": "🚶",
+            "title": "10-min Walk",
+            "detail": "Bahar jaao, phone mat dekho."
+          },
+          {
+            "emoji": "📞",
+            "title": "Ek Call Karo",
+            "detail": "Ek trusted person ko call karo."
+          },
+          {
+            "emoji": "☀️",
+            "title": "Sunlight",
+            "detail": "15 min dhoop mein baitho."
+          }
+        ],
+        "affirmation": "Yeh share karna hi ek brave kadam hai. Aap akele nahi hain. 💜",
+        "professionalAdvice": "Professional support hamesha available hai.",
+        "breathingExercise": {
+          "name": "4-7-8 Breath",
+          "steps": [
+            "Naak se 4 second saansi lo",
+            "7 second rok lo",
+            "Munh se 8 second mein chodo",
+            "3-4 baar repeat karo"
+          ]
+        },
+        "moodPrediction": "Kal ka score: 6.8 🌱"
+      },
+      "date": "5/22/2026",
+      "createdAt": "2026-05-22T07:02:49.574Z"
+    }
+  ]
+}
